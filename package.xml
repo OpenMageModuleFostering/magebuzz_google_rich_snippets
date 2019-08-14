@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>magebuzz_google_rich_snippets</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Magebuzz Google Rich Snippet - 0.1.0 </summary>
+    <description>Magebuzz Google Rich Snippet - 0.1.0 </description>
+    <notes>Google Rich Snippets helps you highlight your products among search results of search engines by various types of rich snippets.</notes>
+    <authors><author><name>Magebuzz</name><user>magebuzz</user><email>magebuzz@gmail.com</email></author></authors>
+    <date>2016-02-05</date>
+    <time>08:57:53</time>
+    <contents><target name="magelocal"><dir name="Magebuzz"><dir name="Snippet"><dir name="Block"><dir name="Adminhtml"><dir name="Snippet"><dir name="Edit"><file name="Form.php" hash="b40e63d11ad9c10e7b27489e9cc5a054"/><dir name="Tab"><file name="Form.php" hash="e1efb96f85071c8b0d73a72b8bdfb274"/></dir><file name="Tabs.php" hash="303f9691a287d5c128a68815f48c6536"/></dir><file name="Edit.php" hash="339b53185a4bcd7f32af3b21b22e031f"/><file name="Grid.php" hash="89651c9ccf4ef900c2f648229ed1a81b"/></dir><file name="Snippet.php" hash="834f45f3ee6a0a46f1559ffe7df470c1"/></dir><file name="Breadcrumb.php" hash="c4aa84ee181c88ce48f8db61e398a71c"/><file name="Category.php" hash="8712b3be6c07a522511315e16043da0e"/><file name="Organization.php" hash="2ff62d9d6c4eb922f5756ed521db7126"/><file name="Product.php" hash="e1cf1f8e1010b3c7710b61261dcb3b49"/></dir><dir name="Helper"><file name="Data.php" hash="c221865cd7d3f5517b8452e832c6ea45"/></dir><dir name="Model"><dir name="Mysql4"><dir name="Snippet"><file name="Collection.php" hash="0e57b92ffb3e79f40f4ad660fa3b7af1"/></dir><file name="Snippet.php" hash="414b426bafe0c8856ba68afe333f0bd6"/></dir><file name="Observer.php" hash="f55ed8b61394ef569d7cf8eaaceff5bd"/><file name="Snippet.php" hash="feca51c1c17f5f8a9bc524a539f7d28b"/><file name="Status.php" hash="6a5b05b2cea7e717253a66ff8aa71fcd"/></dir><dir name="controllers"><dir name="Adminhtml"><file name="SnippetController.php" hash="576bc30c510e8702fc10ed41784ef700"/></dir><file name="IndexController.php" hash="d08a527c265d0876bcccc1c70bbdc5e7"/></dir><dir name="etc"><file name="adminhtml.xml" hash="4e01403000f73931fa75611a95a33923"/><file name="config.xml" hash="8e8a3a67528e3718eab72f828933e56c"/><file name="system.xml" hash="9f176f07223e6a02740cb4fb00307b8e"/></dir><dir name="sql"><dir name="snippet_setup"><file name="mysql4-install-0.1.0.php" hash="cafe0970254855e894ffb9ad8ef40418"/></dir></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="snippet.xml" hash="07bb6fb759668e5d5f7c1f9ca06e6cf8"/></dir><dir name="template"><dir name="snippet"><file name="breadcrumbs.phtml" hash="13f599edf823c0ed596bd8556731f925"/><file name="category.phtml" hash="b2f69b44f20378f3f5c7ce61f2194711"/><file name="organization.phtml" hash="7cbc26993ff1bbc2233164d11cb064df"/><file name="product.phtml" hash="ca914ecb6cf313ff10d70c901eddb3a6"/></dir></dir></dir></dir></dir><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><file name="snippet.xml" hash="51c4007bf065f87224794c3f13f140a2"/></dir></dir></dir></dir></target><target name="magelocale"><dir name="en_US"><file name="Magebuzz_Snippet.csv" hash="e64cecac1a839518bb17ea0eca8ddcfd"/></dir></target><target name="mageetc"><dir name="modules"><file name="Magebuzz_Snippet.xml" hash="db722d061361ecdd4fccfdc11786a205"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

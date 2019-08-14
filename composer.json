@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/magebuzz_google_rich_snippets",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Magebuzz Google Rich Snippet - 0.1.0 ",
+    "authors": [
+    {
+        "name": "Magebuzz",
+        "email": "magebuzz@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
