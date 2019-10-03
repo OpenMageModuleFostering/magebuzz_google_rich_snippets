@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Magebuzz Google Rich Snippet - 0.1.0 
